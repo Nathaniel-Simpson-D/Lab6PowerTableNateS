@@ -1,0 +1,7 @@
+C:\Users\Nate Simpson\source\repos\Lab6PowerChartNateS\bin\Debug\Lab6PowerChartNateS.exe.config
+C:\Users\Nate Simpson\source\repos\Lab6PowerChartNateS\bin\Debug\Lab6PowerChartNateS.exe
+C:\Users\Nate Simpson\source\repos\Lab6PowerChartNateS\bin\Debug\Lab6PowerChartNateS.pdb
+C:\Users\Nate Simpson\source\repos\Lab6PowerChartNateS\obj\Debug\Lab6PowerChartNateS.csprojAssemblyReference.cache
+C:\Users\Nate Simpson\source\repos\Lab6PowerChartNateS\obj\Debug\Lab6PowerChartNateS.csproj.CoreCompileInputs.cache
+C:\Users\Nate Simpson\source\repos\Lab6PowerChartNateS\obj\Debug\Lab6PowerChartNateS.exe
+C:\Users\Nate Simpson\source\repos\Lab6PowerChartNateS\obj\Debug\Lab6PowerChartNateS.pdb
